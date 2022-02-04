@@ -1,7 +1,3 @@
-# Networks Assignment 
-# Server - Makefile
-# Zukiswa Lobola, Mbaliyethemba Shangase, Simnikiwe Khonto
-# March 2020
 
 JAVAC=/usr/bin/javac
 .SUFFIXES: .java .class
